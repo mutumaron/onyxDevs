@@ -42,7 +42,7 @@ interface DataItem {
   testimonial: Testimonial[];
 }
 
-export const DATA: DataItem[] = [
+const DATA: DataItem[] = [
   {
     id: "d1",
     name: "Database Design",
